@@ -1,0 +1,12 @@
+name: CoffeeRoulette
+title: CoffeeRoulette
+username:
+account: emma-vestesson
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1961361
+bundleId: 2893500
+url: https://emma-vestesson.shinyapps.io/CoffeeRoulette/
+when: 1584525815.16487
+asMultiple: FALSE
+asStatic: FALSE
